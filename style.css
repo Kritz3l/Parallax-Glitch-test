@@ -1,0 +1,109 @@
+body{
+    position:absolute;
+    width: 100%;
+    left: 10px;
+}
+#title{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, 100%);
+}
+.text, .parallaxText{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+}
+.table{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, 150%);
+    text-align: center;
+    border-collapse: collapse;
+}
+.link{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    color: #214285;
+    text-decoration: none;
+
+}
+.parallaxText{
+    color: #735646;
+    width: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    text-align:center;
+}
+.italia{
+    margin-left: -150px;
+    font-family: 'Lovers Quarrel', serif;
+    font-size: 300px;
+    text-align: center;
+}
+
+
+.hero1, .hero2, .hero3, .hero4, .hero5{
+    height: 900px;
+    width: 1500px;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hero1{
+    background-image: url("img/Rome.jpg");
+    height: 1080px;
+}
+.hero2{
+    background-image: url("img/Pisa.jpg");
+}
+.hero3{
+    background-image: url("img/Tarok.jpg");
+}
+.hero4{
+    background-image: url("img/Rovai_1.jpg");
+}
+.hero5{
+    background-image: url("img/Matera.jpg");
+}
+
+
+.txtHero1{
+    position: relative;
+    top: 72%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+.txtHero2, .txtHero3, .txtHero4, .txtHero5{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    font-family: 'Lovers Quarrel', sans-serif;
+    font-size: 300px;
+}
+.PH1, .PH2, .PH3{
+    width: 750px;
+    margin: 50px auto 50px auto;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: #494949;
+}
+.PH3{
+    text-align: center;
+}
+.github{
+
+    width: 100px;
+    height: auto;
+}
