@@ -5,7 +5,9 @@ $('.container').mousemove(function(e){
 });
 
 function callParallax(e){
-    parallaxIt(e, '.slide.one', -50);
+    parallaxIt(e, '.slide.one', -100);
+    parallaxIt(e, '.slide.two', -20);
+    parallaxIt(e, '.slide.three', 5);
     parallaxIt(e, '.img', -30);
 }
 

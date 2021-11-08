@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd478d57-e1ea-43b7-b214-0c79c9d45cd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3d-test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3d-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dgsap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/water.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/water.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d-test.css" beforeDir="false" afterPath="$PROJECT_DIR$/3d-test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/3d-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dgsap.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dgsap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blotter" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blotter/build/materials/rollingDistortMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter/build/materials/rollingDistortMaterial.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blotter/build/materials/slidingDoorMaterial.js" beforeDir="false" />
@@ -61,7 +58,6 @@
       <change beforePath="$PROJECT_DIR$/Blotter/third_party/underscore/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Blotter/third_party/underscore/underscore.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Blotter/utils/three_build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/glitch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,7 @@
       <workItem from="1606461512615" duration="20987000" />
       <workItem from="1635428234162" duration="81000" />
       <workItem from="1635428484963" duration="75000" />
-      <workItem from="1636353446284" duration="9571000" />
+      <workItem from="1636353446284" duration="12276000" />
     </task>
     <servers />
   </component>
