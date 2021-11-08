@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="Blotter/build/blotter.min.js"></script>
+    <script src="Blotter/build/materials/liquidDistortMaterial.js"></script>
+    <link rel="stylesheet" href="water.css">
+</head>
+<body>
+<div class="grid">
+    <p>
+        Elba
+    </p>
+    <div class="heroImg">
+        <div id="title">
+        </div>
+    </div>
+    <img class="waterGif" src="img/water.gif" alt="gif of water">
+
+</div>
+
+</body>
+<script>
+    let text = new Blotter.Text("Mare Nostro", {
+        family : "'Courier New', monospace",
+        size: 64,
+        fill: "#fff"
+    });
+
+    let material = new Blotter.LiquidDistortMaterial();
+    material.uniforms.uSpeed.value = 0.25;
+    material.uniforms.uVolatility.value = 0.02;
+    material.uniforms.uSeed.value = 0.1;
+
+    let blotter = new Blotter(material, {texts: text});
+
+    let id = document.getElementById('title')
+
+    let scope = blotter.forText(text);
+
+    scope.appendTo(id);
+</script>
+</html>

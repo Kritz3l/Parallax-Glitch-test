@@ -2,8 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd478d57-e1ea-43b7-b214-0c79c9d45cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Blotter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blotter/third_party/three/three.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter/third_party/three/three.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3d-test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3d-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3dgsap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/water.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/water.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/build/materials/rollingDistortMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blotter/build/materials/rollingDistortMaterial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/build/materials/slidingDoorMaterial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/blinnphongspecular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/core/blending.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/core/inf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/core/line_math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/gamma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/noise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/noise2D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/noise3D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/noise4D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/pi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/assets/shaders/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/blotter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/builders/mappingBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/builders/mappingMaterialBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/builders/textures/boundsDataTextureBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/builders/textures/indicesDataTextureBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/builders/textures/textTextureBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/canvasUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/core/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/core/messaging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/core/overrides.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/core/vendorPrefixes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/objects/modelEventBinding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/textUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/extras/uniformUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/mapping/mapping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/mapping/mappingMaterial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/materials/material.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/materials/shaderMaterial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/rendering/renderScope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/rendering/renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/src/texts/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/bin-packing/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/bin-packing/packer.growing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/event_emitter/EventEmitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/event_emitter/UNLICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/request_animation_frame/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/request_animation_frame/requestAnimationFrame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/set_immediate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/set_immediate/setimmediate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/three/Detector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/three/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/three/three.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/underscore/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/third_party/underscore/underscore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blotter/utils/three_build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/glitch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +78,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Blotter" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kphLcLNnMazfzjbViXnnlVSYXu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +90,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -55,32 +114,13 @@
       <workItem from="1606403386746" duration="2553000" />
       <workItem from="1606409847863" duration="141000" />
       <workItem from="1606461512615" duration="20987000" />
+      <workItem from="1635428234162" duration="81000" />
+      <workItem from="1635428484963" duration="75000" />
+      <workItem from="1636353446284" duration="9571000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="628" y="363" key="EditFileWatcherDialog" timestamp="1606481373381">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="628" y="363" key="EditFileWatcherDialog/0.0.1920.1170/-1920.0.1920.1170@0.0.1920.1170" timestamp="1606481373381" />
-    <state x="461" y="230" key="SettingsEditor" timestamp="1606481375880">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="461" y="230" key="SettingsEditor/0.0.1920.1170/-1920.0.1920.1170@0.0.1920.1170" timestamp="1606481375880" />
-    <state x="777" y="499" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606484616121">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="777" y="499" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1170/-1920.0.1920.1170@0.0.1920.1170" timestamp="1606484616121" />
-    <state x="667" y="184" width="585" height="801" key="find.popup" timestamp="1606477425562">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="667" y="184" width="585" height="801" key="find.popup/0.0.1920.1170/-1920.0.1920.1170@0.0.1920.1170" timestamp="1606477425562" />
-    <state x="616" y="273" key="run.anything.popup" timestamp="1606469563206">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="616" y="273" key="run.anything.popup/0.0.1920.1170/-1920.0.1920.1170@0.0.1920.1170" timestamp="1606469563206" />
   </component>
 </project>

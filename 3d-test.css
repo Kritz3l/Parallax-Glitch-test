@@ -1,0 +1,30 @@
+.grid{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 60rem;
+}
+
+.background{
+    grid-column: 1;
+    grid-row: 1;
+    width: 80%;
+    height: 60rem;
+    margin: 2rem auto;
+    background-image: url("img/roma.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bridge{
+    grid-column: 1;
+    grid-row: 1;
+    background-image: url("img/roma-bridge.png");
+    width: 90%;
+    height: 60rem;
+    margin: 2rem auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
